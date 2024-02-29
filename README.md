@@ -22,4 +22,14 @@ The year 2020 marked the beginning of my journey into the field of software engi
 
 🧠 In my spare time, I enjoy diving into new technologies
 
+<table><tr><td valign="top" width="50%">
+
+<a href="http://www.github.com/KamilBlaz"><img src="https://github-readme-stats.vercel.app/api?username=KamilBlaz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="manuelernestog's GitHub stats" /></a>
+ 
+</td><td valign="top" width="50%">
+
+
+<a href="http://www.github.com/KamilBlaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KamilBlaz&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+ 
+</tr></tr></table> 
 
