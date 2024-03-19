@@ -6,6 +6,10 @@ I'm a person who enjoys constantly learning. Solving problems and new challenges
 
 As a hobbyist, I develop my own projects mainly at home IoT, containers, home servers. It's fair to say that I'm a geek 🤓 
 
+Author of several scenarios on the sadservers platform https://sadservers.com/scenarios:
+- 	"Poznań": Helm Chart Issue in Kubernetes
+- 	"Warsaw": Promethues can't scrape the webserver
+
 Programming languages 💻 :
 - Javascript
 - Python
