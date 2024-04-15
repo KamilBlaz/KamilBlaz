@@ -9,6 +9,7 @@ As a hobbyist, I develop my own projects mainly at home IoT, containers, home se
 Author of several scenarios on the sadservers platform https://sadservers.com/scenarios:
 - 	"Poznań": Helm Chart Issue in Kubernetes
 - 	"Warsaw": Promethues can't scrape the webserver
+- 	"Florence": Database Migration Hell 
 
 Programming languages 💻 :
 - Javascript
